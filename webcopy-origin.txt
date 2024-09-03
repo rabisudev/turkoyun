@@ -1,0 +1,264 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\ajax\libs\jquery\2.1.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\npm\typeit@7.0.4\dist\typeit.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.linearicons.com/free/1.0.0/icon-font.min.css
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\free\1.0.0\icon-font.min.css
+Content Type: text/css
+
+Uri: https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.eot
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\free\1.0.0\Linearicons-Free.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.eot?
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\free\1.0.0\Linearicons-Free-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.svg
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\free\1.0.0\Linearicons-Free.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.ttf
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\free\1.0.0\Linearicons-Free.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.woff
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\free\1.0.0\Linearicons-Free.woff
+Content Type: binary/octet-stream
+
+Uri: https://cdn.linearicons.com/free/1.0.0/Linearicons-Free.woff2
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\free\1.0.0\Linearicons-Free.woff2
+Content Type: application/font-woff2
+
+Uri: https://fonts.googleapis.com/css2?family=Lilita+One&display=swap
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Anton
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Righteous
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/anton/v25/1Ptgg87LROyAm3Kz-Co.ttf
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\s\anton\v25\1Ptgg87LROyAm3Kz-Co.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lilitaone/v15/i7dPIFZ9Zz-WBtRtedDbUEY.ttf
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\s\lilitaone\v15\i7dPIFZ9Zz-WBtRtedDbUEY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/righteous/v17/1cXxaUPXBpj2rGoU7C9WiHGA.ttf
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\s\righteous\v17\1cXxaUPXBpj2rGoU7C9WiHGA.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/69644482
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\watch\69644482
+Content Type: image/gif
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\bootstrap\4.5.2\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/css/all.css
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.5.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\releases\v5.5.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.elmashilesi.net/
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\index.htm
+Content Type: text/html
+
+Uri: https://www.elmashilesi.net/css/animate.css
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\css\animate.css
+Content Type: text/css
+
+Uri: https://www.elmashilesi.net/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.elmashilesi.net/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.elmashilesi.net/css/style.css
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\css\style.css
+Content Type: text/css
+
+Uri: https://www.elmashilesi.net/img/170.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\170.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/2000.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\2000.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/30.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\30.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/360.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\360.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/80.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\80.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/950.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\950.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/bg_reward_big_collect.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\bg_reward_big_collect.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/bg_reward_big_locked.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\bg_reward_big_locked.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/brawler_icon.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\brawler_icon.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/bubble_icon.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\bubble_icon.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/continue_blue.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\continue_blue.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/elmas hilesi logo.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\elmas hilesi logo.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/favicon.ico
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.elmashilesi.net/img/icon_player_level.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\icon_player_level.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/logo_outlined_noBG.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\logo_outlined_noBG.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/pirate.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\pirate.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/star-white.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\star-white.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/verify_enabled.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\verify_enabled.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/img/whatsapp.png
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\img\whatsapp.png
+Content Type: image/png
+
+Uri: https://www.elmashilesi.net/js/jquery.countTo.js
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\js\jquery.countTo.js
+Content Type: application/javascript
+
+Uri: https://www.elmashilesi.net/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://www.elmashilesi.net/js/main.js
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.elmashilesi.net/videolu-anlatim.mp4
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\videolu-anlatim.mp4
+Content Type: video/mp4
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-V9X7E35L3W
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-114752797-11
+File Name: C:\Downloaded Web Sites\www.elmashilesi.net\gtag\js-1
+Content Type: application/javascript
+
